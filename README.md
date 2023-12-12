@@ -2,4 +2,4 @@
 
 # Output: 
 
-![output img(1)](https://github.com/prasannavasudevan/MERN-project/assets/32860910/52a15ef1-536e-40c2-9d95-54c6303b7339)
+![Screenshot (45)](https://github.com/prasannavasudevan/MERN-project/assets/32860910/e8d224f5-663b-4181-9743-44e9f462fb17)
