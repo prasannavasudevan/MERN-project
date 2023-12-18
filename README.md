@@ -1,4 +1,4 @@
-# E-commerce website with authentication and authorization with payment gateway
+# E-commerce website with authentication and authorization with a payment gateway
 
 # Output: 
 
